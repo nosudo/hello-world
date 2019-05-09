@@ -1,6 +1,6 @@
 # hello-world
 
-Hello, World! I'm postProd.
+Hello, World! I'm nosudo.
 
 I'm currently working in video post-production but am obsessed with automation and making things work more efficiently.
 
